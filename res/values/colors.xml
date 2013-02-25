@@ -61,7 +61,7 @@
     <color name="month_day_number_other">#FFAAAAAA</color>
     <color name="month_week_num_color">#FF999999</color>
     <color name="month_day_names_color">#FF999999</color>
-    <color name="month_today_number">#FFFFFFFF</color>
+    <color name="month_today_number">#FF33b5e5</color>
     <color name="month_event_color">#FF333333</color>
     <color name="month_event_extra_color">#FF666666</color>
     <color name="month_event_other_color">#FF666666</color>
@@ -147,9 +147,9 @@
     <color name="appwidget_month">#ffEEEEEE</color>
 
     <!-- Text color of declined events in widget view -->
-    <color name="appwidget_item_declined_color">#66333333</color>
+    <color name="appwidget_item_declined_color">#66CCCCCC</color>
     <!-- Text color of non-declined events in widget view -->
-    <color name="appwidget_item_standard_color">#ff333333</color>
+    <color name="appwidget_item_standard_color">#ffCCCCCC</color>
     <!-- Text color for all day events in widget view -->
     <color name="appwidget_item_allday_color">#ffffffff</color>
 
